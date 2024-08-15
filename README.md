@@ -4,7 +4,7 @@
    const luiggiData = {
        name: "Luiggi Antonni",
        country:"Brazil",
-       age: 21,
+       age: 22,
        vocation: [
            "JavaScript",
            "Improving and innovating",
