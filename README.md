@@ -4,11 +4,11 @@
    const luiggiData = {
        name: "Luiggi Antonni",
        country:"Brazil",
-       age: 22,
+       age: 23,
        vocation: [
            "JavaScript",
            "Improving and innovating",
-           "Computer engineer": loading()
+           "Computer engineer"
        ]
    }
 
